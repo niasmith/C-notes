@@ -1,0 +1,13 @@
+C:\Users\niasm\TCP_backend_July_2020\C sharp\bin\Debug\netcoreapp3.1\C sharp.exe
+C:\Users\niasm\TCP_backend_July_2020\C sharp\bin\Debug\netcoreapp3.1\C sharp.deps.json
+C:\Users\niasm\TCP_backend_July_2020\C sharp\bin\Debug\netcoreapp3.1\C sharp.runtimeconfig.json
+C:\Users\niasm\TCP_backend_July_2020\C sharp\bin\Debug\netcoreapp3.1\C sharp.runtimeconfig.dev.json
+C:\Users\niasm\TCP_backend_July_2020\C sharp\bin\Debug\netcoreapp3.1\C sharp.dll
+C:\Users\niasm\TCP_backend_July_2020\C sharp\bin\Debug\netcoreapp3.1\C sharp.pdb
+C:\Users\niasm\TCP_backend_July_2020\C sharp\obj\Debug\netcoreapp3.1\C sharp.csprojAssemblyReference.cache
+C:\Users\niasm\TCP_backend_July_2020\C sharp\obj\Debug\netcoreapp3.1\C sharp.AssemblyInfoInputs.cache
+C:\Users\niasm\TCP_backend_July_2020\C sharp\obj\Debug\netcoreapp3.1\C sharp.AssemblyInfo.cs
+C:\Users\niasm\TCP_backend_July_2020\C sharp\obj\Debug\netcoreapp3.1\C sharp.csproj.CoreCompileInputs.cache
+C:\Users\niasm\TCP_backend_July_2020\C sharp\obj\Debug\netcoreapp3.1\C sharp.dll
+C:\Users\niasm\TCP_backend_July_2020\C sharp\obj\Debug\netcoreapp3.1\C sharp.pdb
+C:\Users\niasm\TCP_backend_July_2020\C sharp\obj\Debug\netcoreapp3.1\C sharp.genruntimeconfig.cache

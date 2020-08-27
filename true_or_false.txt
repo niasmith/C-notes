@@ -1,0 +1,5 @@
+// this is a string literal
+Console.WriteLine("true");
+//This is a bool concept
+Console.WriteLine(false);
+// Bool literal is case sensitive

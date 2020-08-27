@@ -1,0 +1,10 @@
+Console.WriteLine('b');
+// single character can use either "" or ''
+
+Console.WriteLine("Hello World!");
+// string literals only work with ""
+
+Console.WriteLine(123);
+// numerical values don't need quotation marks
+Console.WriteLine(12.3m);
+// decimal works with and without the 'm'

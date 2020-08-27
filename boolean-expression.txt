@@ -1,0 +1,14 @@
+A Boolean expression is any code that returns a boolean value, either true or false.
+ The simplest boolean expressions are simply the values true and false. Alternatively, 
+ a boolean expression could be the result of a method that returns the value true or false.
+
+ //////////////////////////////////////////////////////////////////////////////////////////
+
+ string message = "The quick brown fox jumps over the lazy dog.":
+ bool result = message.Contains("dog");
+ Console.WriteLine(result);
+
+ if(message.Contains("fox"))
+ {
+     Console.WriteLine("What does the fox say?");
+ }

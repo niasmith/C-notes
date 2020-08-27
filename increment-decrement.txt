@@ -1,0 +1,64 @@
+// int sum = 7 +5;
+// Console.WriteLine("Sum: " + sum);
+// int difference = 7-5;
+// Console.WriteLine("difference: " + difference );
+// int product = 7 * 5;
+// Console.WriteLine("product: " + product);
+// int divide = 7 / 5;
+// Console.WriteLine("divide: " + divide);
+
+// decimal decimalQuotient = 7.0m / 5;
+// Console.WriteLine("Decimal quotient: " + decimalQuotient);
+
+// decimal decimalQuotient = 7 / 5.0m;
+// Console.WriteLine("Decimal quotient: " + decimalQuotient);
+
+
+// int first = 7;
+// int second = 5;
+// decimal quotient = (decimal)first / (decimal)second;
+// Console.WriteLine(quotient);
+
+// int value1 = 3 + 4 * 5;
+// Console.WriteLine(value1);
+// int value2 = (3 + 4) * 5;
+// Console.WriteLine(value2);
+
+// int value = 0;
+// value = value + 5;
+// Console.WriteLine(value);
+// value += 5;
+
+
+// int value = 0;
+// value = value + 1;
+// value++;
+// Console.WriteLine(value);
+
+
+// int value = 1;
+
+// value = value +1;
+// Console.WriteLine("First increment: " + value);
+
+// value += 1;
+// Console.WriteLine("Second increment: " + value);
+
+// value ++;
+// Console.WriteLine("Third increment: " + value);
+
+// value = value -1;
+// Console.WriteLine("First decrement: " + value);
+
+// value -= 1;
+// Console.WriteLine("Second decrement: " + value);
+
+// value--;
+// Console.WriteLine("Third decrement: "+ value);
+
+int value = 1;
+value++;
+Console.WriteLine("First: " +value);
+Console.WriteLine("Second: " + value++);
+Console.WriteLine("Third: " + value);
+Console.WriteLine("Forth: " + (++value));

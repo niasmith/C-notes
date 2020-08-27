@@ -1,0 +1,6 @@
+The Math.max() function returns the largest of the zero or more numbers given as input parameters.
+int firstValue = 500;
+int secondValue = 600;
+int largerValue;
+largerValue = Math.Max(firstValue, secondValue);
+Console.WriteLine(largerValue);

@@ -1,0 +1,19 @@
+//initialize the variable
+string firstName;
+firstName = "Nia";
+Console.WriteLine(firstName);
+firstName = "Alex";
+Console.WriteLine(firstName);
+firstName = "Ben";
+Console.WriteLine(firstName);
+firstName = "George";
+Console.WriteLine(firstName);
+
+string value = "Nia";
+Console.WriteLine(value);
+
+//var keyword can only be used when value is initialized
+var message = "Hello World!";
+Console.WriteLine(message);
+//var can be used with interchangeable values
+var value = "Nia"

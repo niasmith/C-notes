@@ -1,0 +1,7 @@
+Console.WriteLine("This is the first line.");
+Console.WriteLine("This is the second line.");
+
+
+Console.WriteLine("This is ");
+Console.WriteLine("This second ");
+Console.WriteLine("line ");
